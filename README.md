@@ -1,4 +1,4 @@
-# Zomato-Data-Insight-Accelerator
+# Zomato Data Insight Accelerator
 
 ## Project Overview
 You have just joined the analytics team at Zomato, one of India's leading food delivery platforms. This project involves analyzing sales data to identify key metrics that can improve customer experience and drive growth. The company is facing challenges such as declining customer satisfaction, increasing order cancellations, and inconsistent sales performance across regions. Your mission is to uncover insights from the data that will help address these challenges.
